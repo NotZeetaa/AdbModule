@@ -7,8 +7,8 @@ It is a client-server program that includes three components.
 
 This Module Can disable and Enable the Adb command
 
-QA
+- QA
 Why just go to developer optins and Disable and Enable the Adb?
-Because Some Roms enable the Adb every reboot u done 
+ - Because Some Roms enable the Adb every reboot u done 
 
 By @NotZeetaa ( Telegram )
