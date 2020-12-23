@@ -1,0 +1,5 @@
+#!/system/bin/sh
+MODDIR=${0%/*}
+
+settings put global adb_enabled "1"
+
