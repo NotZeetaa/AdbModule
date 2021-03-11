@@ -34,4 +34,4 @@ case $AD in
 esac
 ui_print " "
 ui_print "- Mode: $FCTEXTAD1 "
-sleep 5
+sleep 3
