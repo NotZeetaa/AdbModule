@@ -4,7 +4,7 @@ mkdir -p $MODPATH/system/bin
 
 ui_print " "
 ui_print "    ×××××××××××××××××××××××××××××××"
-ui_print "       Select Adb Mode?  📳     "
+ui_print "       Select Adb Mode:  📳     "
 ui_print "    ×××××××××××××××××××××××××××××××"
 ui_print " "
 ui_print "  Vol+ = Next; Vol- = Select"
